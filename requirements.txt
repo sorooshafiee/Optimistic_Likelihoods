@@ -114,7 +114,7 @@ torchvision==0.2.2
 tornado==5.1
 tqdm==4.25.0
 traitlets==4.3.2
-Twisted==18.7.0
+Twisted==19.7.0
 typed-ast==1.1.0
 urllib3==1.22
 wcwidth==0.1.7
